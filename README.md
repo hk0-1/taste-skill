@@ -2,6 +2,14 @@
   <img src="assets/readme-banner.png" alt="Taste Skill - Anti-slop Agent Skills for premium frontends" width="100%" />
 </p>
 
+> [!IMPORTANT]
+> **Migration notice:** This `hk0-1` fork is archived and no longer maintained. NeuraEase-specific,
+> React Native adaptations of `brandkit` and `imagegen-frontend-mobile` now live in the private
+> [`hk0-1/neuraease-react-native-ui-ux-workflow`](https://github.com/hk0-1/neuraease-react-native-ui-ux-workflow)
+> design platform. For the public Taste Skill project, releases, and contributions, use the original
+> [`Leonxlnx/taste-skill`](https://github.com/Leonxlnx/taste-skill) repository. Original MIT license
+> and upstream authorship remain unchanged.
+
 # Taste Skill
 
 <p align="center">
